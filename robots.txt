@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-kjax9k.venom88win.online/sitemap.xml
